@@ -1,0 +1,239 @@
+city,state,population,population_rank,services_analyzed
+Jacksonville,FL,985843,10,38
+Austin,TX,979882,11,51
+Fort Worth,TX,978468,12,26
+San Jose,CA,969655,13,27
+Columbus,OH,913175,14,31
+Charlotte,NC,911311,15,37
+Indianapolis,IN,879293,16,29
+San Francisco,CA,808988,17,16
+Seattle,WA,755078,18,40
+Denver,CO,716577,19,44
+Oklahoma City,OK,702767,20,24
+Washington,DC,678972,22,11
+El Paso,TX,678958,23,25
+Las Vegas,NV,660929,24,47
+Boston,MA,653833,25,22
+Detroit,MI,633218,26,13
+Portland,OR,630498,27,29
+Memphis,TN,618639,29,20
+Baltimore,MD,565239,30,16
+Milwaukee,WI,561385,31,22
+Albuquerque,NM,560274,32,23
+Tucson,AZ,547239,33,26
+Fresno,CA,545716,34,19
+Sacramento,CA,526384,35,35
+Nashville-Davidson,TN,687788,21,32
+Louisville/Jefferson County,KY,622981,28,22
+Mesa,AZ,511648,36,11
+Atlanta,GA,510823,37,38
+Kansas City,MO,510704,38,28
+New York,NY,8258035,1,30
+Los Angeles,CA,3820914,2,48
+Chicago,IL,2664452,3,50
+Houston,TX,2314157,4,57
+Phoenix,AZ,1650070,5,42
+Philadelphia,PA,1550542,6,25
+San Antonio,TX,1495295,7,46
+San Diego,CA,1388320,8,47
+Dallas,TX,1302868,9,42
+Colorado Springs,CO,488664,39,33
+Omaha,NE,483335,40,30
+Raleigh,NC,482295,41,34
+Miami,FL,455924,42,39
+Virginia Beach,VA,453649,43,16
+Long Beach,CA,449468,44,11
+Oakland,CA,436504,45,7
+Minneapolis,MN,425115,46,29
+Bakersfield,CA,413381,47,13
+Tulsa,OK,411894,48,41
+Tampa,FL,403364,49,41
+Arlington,TX,398431,50,12
+Wichita,KS,396119,51,15
+Aurora,CO,395052,52,3
+New Orleans,LA,364136,53,22
+Cleveland,OH,362656,54,16
+Urban Honolulu CDP,HI,341778,55,4
+Anaheim,CA,340512,56,4
+Henderson,NV,337305,57,2
+Orlando,FL,320742,58,33
+Lexington-Fayette,KY,320154,59,16
+Stockton,CA,319543,60,3
+Riverside,CA,318858,61,7
+Corpus Christi,TX,316595,62,11
+Irvine,CA,314621,63,6
+Cincinnati,OH,311097,64,26
+Santa Ana,CA,310539,65,0
+Newark,NJ,304960,66,3
+St. Paul,MN,303820,67,3
+Pittsburgh,PA,303255,68,26
+Greensboro,NC,302296,69,14
+Durham,NC,296186,70,9
+Lincoln,NE,294757,71,11
+Jersey City,NJ,291657,72,2
+Plano,TX,290190,73,11
+Anchorage,AK,286075,74,7
+St. Louis,MO,281754,76,23
+Madison,WI,280305,77,14
+Chandler,AZ,280167,78,7
+Gilbert,AZ,275411,79,7
+Reno,NV,274915,80,14
+Buffalo,NY,274678,81,13
+Chula Vista,CA,274333,82,2
+Fort Wayne,IN,269994,83,10
+Lubbock,TX,266878,84,14
+Toledo,OH,265304,85,7
+St. Petersburg,FL,263553,86,9
+Irving,TX,254373,88,1
+Chesapeake,VA,253886,89,4
+Glendale,AZ,253855,90,3
+Winston-Salem,NC,252975,91,9
+Port St. Lucie,FL,245021,92,6
+Scottsdale,AZ,244394,93,13
+Garland,TX,243470,94,2
+Boise City,ID,235421,95,17
+Norfolk,VA,230930,96,3
+Spokane,WA,229447,97,28
+Richmond,VA,229247,98,20
+Fremont,CA,226208,99,4
+Huntsville,AL,225564,100,13
+Augusta-Richmond County,GA,200884,124,16
+Antioch,CA,117096,250,2
+La Habra,CA,60991,638,0
+North Richland Hills,TX,70658,536,1
+Goodyear,AZ,111805,274,1
+Bellevue,NE,63922,602,15
+O'Fallon,MO,94074,360,1
+Frisco,TX,225007,101,5
+Cape Coral,FL,224455,102,5
+Santa Clarita,CA,224028,103,1
+San Bernardino,CA,223728,104,0
+Tacoma,WA,222906,105,8
+Hialeah,FL,221300,106,0
+Baton Rouge,LA,219573,107,8
+Modesto,CA,218915,108,4
+Fontana,CA,215465,109,0
+McKinney,TX,213509,110,3
+Moreno Valley,CA,212392,111,0
+Des Moines,IA,210381,112,7
+Fayetteville,NC,209749,113,5
+Salt Lake City,UT,209593,114,7
+Yonkers,NY,207657,115,0
+Worcester,MA,207621,116,1
+Rochester,NY,207274,117,10
+Sioux Falls,SD,206410,118,7
+Little Rock,AR,203842,119,5
+Amarillo,TX,202408,120,5
+Tallahassee,FL,202221,121,6
+Columbus,GA,201877,123,11
+Peoria,AZ,198750,125,4
+Oxnard,CA,198488,126,0
+Knoxville,TN,198162,127,10
+Overland Park,KS,197089,128,4
+Birmingham,AL,196644,129,6
+Grand Rapids,MI,196608,130,8
+Vancouver,WA,196442,131,5
+Montgomery,AL,195287,132,3
+Huntington Beach,CA,192129,133,1
+Providence,RI,190792,134,0
+Brownsville,TX,190158,135,0
+Tempe,AZ,189834,136,0
+Akron,OH,188701,137,3
+Glendale,CA,187050,138,1
+Chattanooga,TN,187030,139,7
+Fort Lauderdale,FL,184255,140,7
+Newport News,VA,183118,141,1
+Mobile,AL,182595,142,6
+Clarksville,TN,180716,144,3
+Cary,NC,180010,145,3
+Elk Grove,CA,178444,146,1
+Shreveport,LA,177959,147,3
+Eugene,OR,177899,148,6
+Aurora,IL,177563,149,2
+Salem,OR,177432,150,4
+Santa Rosa,CA,175845,151,1
+Rancho Cucamonga,CA,174405,152,0
+Pembroke Pines,FL,171119,153,0
+Fort Collins,CO,170376,154,7
+Springfield,MO,170188,155,7
+Oceanside,CA,170020,156,1
+Lancaster,CA,166236,158,6
+Murfreesboro,TN,165430,159,5
+Palmdale,CA,161404,160,0
+Corona,CA,160238,161,0
+Killeen,TX,159643,162,0
+Salinas,CA,159506,163,1
+Roseville,CA,159135,164,4
+Denton,TX,158349,165,2
+Surprise,AZ,158285,166,0
+Macon-Bibb County,GA,156512,167,3
+Paterson,NJ,156452,168,0
+Lakewood,CO,155961,169,2
+Hayward,CA,155675,170,0
+Charleston,SC,155369,171,8
+Alexandria,VA,155230,172,5
+Hollywood,FL,153859,173,0
+Springfield,MA,153672,174,7
+Kansas City,KS,152933,175,9
+Sunnyvale,CA,151967,176,2
+Bellevue,WA,151574,177,4
+Joliet,IL,150489,178,2
+Naperville,IL,150245,179,6
+Escondido,CA,148122,180,1
+Savannah,GA,147748,182,7
+Olathe,KS,147461,183,2
+Pasadena,TX,146716,185,3
+Rockford,IL,146120,187,6
+Gainesville,FL,145812,188,6
+Syracuse,NY,145560,189,6
+Visalia,CA,144998,191,1
+Waco,TX,144816,193,3
+Jackson,MS,143709,194,3
+Columbia,SC,142416,195,8
+Torrance,CA,139224,197,0
+Victorville,CA,138869,198,0
+Midland,TX,138397,199,2
+Miramar,FL,138319,201,0
+Hampton,VA,137098,202,1
+Stamford,CT,136226,204,0
+Cedar Rapids,IA,135958,205,5
+Palm Bay,FL,135566,207,0
+Dayton,OH,135512,208,8
+Coral Springs,FL,134906,210,0
+Pasadena,CA,133560,213,3
+Kent,WA,133378,215,0
+Fargo,ND,133188,217,6
+Carrollton,TX,132918,218,0
+Santa Clara,CA,131062,219,2
+Round Rock,TX,130406,220,0
+Norman,OK,130046,221,1
+Columbia,MO,129330,222,5
+Abilene,TX,129043,223,3
+Athens-Clarke County,GA,128628,224,3
+Pearland,TX,127736,225,1
+Topeka,KS,125475,227,3
+Simi Valley,CA,125113,229,1
+Allentown,PA,124880,230,5
+West Palm Beach,FL,124130,231,5
+Thousand Oaks,CA,123463,232,0
+Wilmington,NC,122698,234,8
+Rochester,MN,122413,235,7
+Concord,CA,122315,236,3
+Lakeland,FL,122264,237,4
+Lafayette,LA,121467,239,6
+Arvada,CO,121414,240,3
+Independence,MO,120922,241,0
+Billings,MT,120864,242,3
+Fairfield,CA,120768,243,0
+Hartford,CT,119669,244,1
+Ann Arbor,MI,119381,245,5
+Broken Arrow,OK,119194,246,1
+Berkeley,CA,118962,247,1
+Richardson,TX,117435,249,0
+Laredo,TX,257602,87,0
+North Las Vegas,NV,284771,75,1
+Bridgeport,CT,148028,181,0
+McAllen,TX,146593,186,1
+Pomona,CA,145502,190,0
+Fullerton,CA,139250,196,0
+Orange,CA,138337,200,2

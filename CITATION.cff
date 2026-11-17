@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "THMG's Atlas: U.S. Local Search Revenue Benchmarks"
+type: dataset
+version: "2026.11"
+date-released: "2026-11-17"
+license: CC-BY-4.0
+url: "https://www.thmg.com/atlas/"
+repository-code: "https://github.com/misterpmacd/thmg-atlas-local-search-benchmarks"
+authors:
+  - name: "The Highland Marketing Group"
+    website: "https://www.thmg.com/"
+keywords:
+  - local SEO
+  - search volume
+  - home services
+  - benchmarks

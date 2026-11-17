@@ -1,0 +1,130 @@
+trade,trade_slug,avg_job_usd,ticket_confidence,close_rate,margin,cities_analyzed
+kitchen remodel,kitchen-remodel,27000,sourced,0.37,0.32,113
+bathroom remodel,bathroom-remodel,12500,sourced,0.37,0.32,147
+basement remodel,basement-remodel,23500,sourced,0.37,0.32,16
+remodeling company,remodeling-company,52000,sourced,0.37,0.32,29
+concrete contractor,concrete-contractor,5000,sourced,0.23,0.27,103
+stamped concrete,stamped-concrete,5000,sourced,0.23,0.27,5
+replacement windows,replacement-windows,9500,sourced,0.28,0.31,145
+siding,siding,13500,sourced,0.28,0.31,26
+hardwood flooring,hardwood-flooring,4500,sourced,0.37,0.32,43
+foundation repair,foundation-repair,5000,sourced,0.29,0.29,57
+deck builder,deck-builder,10000,sourced,0.33,0.33,51
+quartz granite countertops,quartz-granite-countertops,3000,sourced,0.37,0.32,43
+HVAC replacement,hvac-replacement,11000,sourced,0.46,0.48,9
+spray foam insulation,spray-foam-insulation,15000,manual,0.28,0.31,12
+hardscape retaining wall,hardscape-retaining-wall,6500,sourced,0.33,0.33,1
+outdoor kitchen,outdoor-kitchen,15000,sourced,0.33,0.33,9
+sunroom patio enclosure,sunroom-patio-enclosure,50500,sourced,0.27,0.23,7
+custom cabinets,custom-cabinets,16000,sourced,0.37,0.32,41
+custom closets,custom-closets,2500,sourced,0.37,0.32,11
+epoxy garage floor,epoxy-garage-floor,2500,sourced,0.37,0.32,4
+water treatment softener,water-treatment-softener,2000,sourced,0.46,0.48,21
+ADU home addition,adu-home-addition,127500,sourced,0.27,0.23,6
+pool builder,pool-builder,61500,sourced,0.36,0.34,39
+fence company,fence-company,4000,sourced,0.33,0.33,135
+stairlift accessibility,stairlift-accessibility,5500,sourced,0.25,0.3,1
+fireplace masonry,fireplace-masonry,6000,sourced,0.33,0.33,9
+landscaping company,landscaping-company,6000,sourced,0.41,0.46,48
+pickleball putting green,pickleball-putting-green,35000,sourced,0.33,0.33,40
+prefab modular home,prefab-modular-home,235000,sourced,0.27,0.23,13
+pergola pavilion,pergola-pavilion,4500,sourced,0.33,0.33,19
+driveway paving,driveway-paving,5500,sourced,0.23,0.27,18
+guest house pool house cabana,guest-house-pool-house-cabana,40000,manual,0.27,0.23,3
+brick restoration tuckpointing,brick-restoration-tuckpointing,1500,sourced,0.28,0.31,3
+second-story addition,second-story-addition,188000,sourced,0.27,0.23,6
+timber frame post and beam,timber-frame-post-and-beam,80000,low,0.27,0.23,1
+roofing contractor,roofing-contractor,11000,sourced,0.28,0.31,45
+exterior house painting,exterior-house-painting,3000,sourced,0.28,0.31,23
+solar panel installation,solar-panel-installation,23500,sourced,0.46,0.48,19
+heat pump installation,heat-pump-installation,10000,sourced,0.46,0.48,4
+garage conversion,garage-conversion,22000,sourced,0.37,0.32,1
+crawl space encapsulation,crawl-space-encapsulation,5500,sourced,0.29,0.29,5
+trenchless sewer repair,trenchless-sewer-repair,3500,sourced,0.47,0.57,1
+pool resurfacing,pool-resurfacing,11000,sourced,0.36,0.34,2
+screened porch,screened-porch,25000,sourced,0.33,0.33,0
+basement waterproofing,basement-waterproofing,5000,sourced,0.29,0.29,11
+tree removal,tree-removal,500,sourced,0.41,0.46,50
+garage door replacement,garage-door-replacement,1500,sourced,0.28,0.31,16
+metal roofing,metal-roofing,26500,sourced,0.28,0.31,39
+termite control,termite-control,1500,sourced,0.41,0.46,19
+artificial turf,artificial-turf,4500,sourced,0.33,0.33,28
+barndominium builder,barndominium-builder,240000,sourced,0.27,0.23,4
+boiler replacement,boiler-replacement,6500,sourced,0.46,0.48,1
+cabinet painting refinishing,cabinet-painting-refinishing,4000,sourced,0.37,0.32,6
+concrete driveway,concrete-driveway,5500,sourced,0.23,0.27,6
+custom millwork trim,custom-millwork-trim,1000,sourced,0.37,0.32,0
+demolition contractor,demolition-contractor,14500,sourced,0.23,0.27,5
+dock boathouse boat lift,dock-boathouse-boat-lift,15000,sourced,0.36,0.34,0
+automatic driveway gate,automatic-driveway-gate,3500,sourced,0.33,0.33,0
+duct replacement,duct-replacement,2500,sourced,0.46,0.48,1
+electrical panel upgrade,electrical-panel-upgrade,2500,sourced,0.46,0.48,1
+fireplace insert,fireplace-insert,3000,sourced,0.33,0.33,0
+garage cabinets organization,garage-cabinets-organization,1500,sourced,0.37,0.32,2
+glass railing,glass-railing,4500,low,0.33,0.33,1
+grading excavation,grading-excavation,4000,sourced,0.23,0.27,0
+helical piers house leveling,helical-piers-house-leveling,19000,sourced,0.29,0.29,1
+home elevator,home-elevator,46500,sourced,0.25,0.3,1
+home theater installation,home-theater-installation,23500,sourced,0.37,0.32,0
+hot tub swim spa,hot-tub-swim-spa,6500,sourced,0.33,0.33,1
+hurricane shutters impact windows,hurricane-shutters-impact-windows,4500,sourced,0.28,0.31,1
+interior house painting,interior-house-painting,1500,low,0.37,0.32,23
+irrigation sprinkler,irrigation-sprinkler,2500,sourced,0.41,0.46,0
+land clearing,land-clearing,3500,sourced,0.23,0.27,5
+outdoor landscape lighting,outdoor-landscape-lighting,3500,sourced,0.33,0.33,21
+luxury vinyl flooring,luxury-vinyl-flooring,2500,sourced,0.37,0.32,0
+mini split installation,mini-split-installation,7000,sourced,0.46,0.48,1
+outdoor fireplace fire pit,outdoor-fireplace-fire-pit,3000,sourced,0.33,0.33,0
+patio builder,patio-builder,5000,sourced,0.33,0.33,2
+patio sliding door,patio-sliding-door,2500,sourced,0.28,0.31,0
+paver driveway patio,paver-driveway-patio,4000,sourced,0.33,0.33,1
+pole barn metal building,pole-barn-metal-building,33000,sourced,0.27,0.23,15
+polished concrete,polished-concrete,3500,sourced,0.37,0.32,1
+pool cage screen enclosure,pool-cage-screen-enclosure,10500,sourced,0.33,0.33,2
+retractable motorized screens,retractable-motorized-screens,3000,sourced,0.33,0.33,1
+sewer line replacement,sewer-line-replacement,3500,sourced,0.47,0.57,7
+shower remodel,shower-remodel,8000,sourced,0.37,0.32,1
+stone veneer,stone-veneer,26500,sourced,0.28,0.31,1
+storm shelter safe room,storm-shelter-safe-room,7000,sourced,0.29,0.29,4
+stucco contractor,stucco-contractor,8500,sourced,0.28,0.31,15
+tile contractor,tile-contractor,2000,sourced,0.37,0.32,9
+tiny home builder,tiny-home-builder,50000,sourced,0.27,0.23,7
+walk-in tub,walk-in-tub,6000,sourced,0.25,0.3,1
+well drilling,well-drilling,9000,sourced,0.47,0.57,1
+wine cellar,wine-cellar,38000,sourced,0.37,0.32,2
+asbestos abatement,asbestos-abatement,2000,sourced,0.29,0.29,0
+bat removal and exclusion,bat-removal-and-exclusion,500,sourced,0.41,0.46,0
+cabinet refacing,cabinet-refacing,7500,sourced,0.37,0.32,9
+chimney repair,chimney-repair,500,sourced,0.46,0.48,1
+custom blinds and drapery,custom-blinds-and-drapery,500,sourced,0.37,0.32,1
+gutter replacement,gutter-replacement,2000,sourced,0.28,0.31,1
+hardwood floor installation,hardwood-floor-installation,4500,sourced,0.37,0.32,11
+hardwood floor refinishing,hardwood-floor-refinishing,1500,sourced,0.37,0.32,0
+inground pool construction,inground-pool-construction,57500,sourced,0.33,0.33,3
+mold remediation,mold-remediation,2500,sourced,0.29,0.29,82
+mold testing and removal,mold-testing-and-removal,1500,sourced,0.29,0.29,5
+roof repair,roof-repair,1000,sourced,0.28,0.31,4
+storm damage roof repair,storm-damage-roof-repair,4500,sourced,0.28,0.31,2
+vinyl siding installation,vinyl-siding-installation,11000,sourced,0.28,0.31,1
+water damage restoration,water-damage-restoration,3000,sourced,0.29,0.29,64
+wrought iron fence installation,wrought-iron-fence-installation,3000,sourced,0.33,0.33,2
+attic insulation installation,attic-insulation-installation,2500,low,0.28,0.31,12
+bed bug heat treatment,bed-bug-heat-treatment,4000,low,0.41,0.46,10
+drywall repair and finishing,drywall-repair-and-finishing,500,low,0.37,0.32,1
+furnace replacement,furnace-replacement,5000,low,0.46,0.48,5
+mosquito control systems,mosquito-control-systems,2500,low,0.41,0.46,18
+architect,architect,25000,sourced,0.25,0.3,107
+carpet installation,carpet-installation,3000,low,0.37,0.32,25
+flat roof replacement,flat-roof-replacement,8000,sourced,0.28,0.31,4
+general contractor,general-contractor,25000,sourced,0.37,0.32,172
+handyman for large projects,handyman-for-large-projects,500,sourced,0.25,0.3,6
+home organization services,home-organization-services,500,sourced,0.25,0.3,1
+interior design,interior-design,6000,sourced,0.25,0.3,71
+lawn care contract,lawn-care-contract,1500,sourced,0.25,0.3,5
+window cleaning for commercial buildings,window-cleaning-for-commercial-buildings,500,low,0.25,0.3,3
+standby generator installation,standby-generator-installation,16500,sourced,0.46,0.48,1
+hot tub dealer,hot-tub-dealer,6000,low,0.33,0.33,0
+epoxy garage floor,epoxy-garage-floor,2500,low,0.37,0.32,27
+countertop fabricator,countertop-fabricator,3500,sourced,0.37,0.32,40
+home elevator and stair lift,home-elevator-and-stair-lift,8500,sourced,0.37,0.32,2
+new home builder,new-home-builder,25000,sourced,0.25,0.15,98
