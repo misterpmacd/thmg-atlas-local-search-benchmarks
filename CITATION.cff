@@ -5,6 +5,7 @@ type: dataset
 version: "2026.11"
 date-released: "2026-11-17"
 license: CC-BY-4.0
+doi: 10.5281/zenodo.24322091
 url: "https://www.thmg.com/atlas/"
 repository-code: "https://github.com/misterpmacd/thmg-atlas-local-search-benchmarks"
 authors:

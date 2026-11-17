@@ -23,4 +23,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): free t
 
 > THMG (The Highland Marketing Group), *THMG's Atlas: U.S. Local Search Revenue Benchmarks*, November 2026. https://www.thmg.com/atlas/ (CC BY 4.0)
 
+DOI: https://doi.org/10.5281/zenodo.24322091
+
 Published by [The Highland Marketing Group](https://www.thmg.com/about/), Fort Wayne, Indiana, since 1999.
